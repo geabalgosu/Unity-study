@@ -40,8 +40,8 @@ public class Text_UI : MonoBehaviour
     {
         _score++;
         _text.text = $"Á¡¼ö : {_score}";
-    }
-   
+    } 
 }
+   
 
   
